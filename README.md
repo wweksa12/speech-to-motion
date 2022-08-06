@@ -1,6 +1,6 @@
 the java script code includes the arduino code
 
-coomand 
+command  
 
 left@ right@ top@
 
